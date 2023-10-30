@@ -194,6 +194,7 @@ header nav li:last-of-type a{
         display: flex;
         justify-content: space-between;
         margin-top: 82px;
+        align-items: center;
     }
 .starfall {
   background-image: url("../images/starfall.jpg");
