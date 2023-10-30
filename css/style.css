@@ -53,3 +53,176 @@ header nav li:last-of-type a{
     letter-spacing: 0.4px;
     padding: 11px 20px;
 }
+.main_banner {
+    background-image: url("../images/main_bg.jpg");
+    background-size: cover;
+    height: calc(100vh - 135px);
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    padding-bottom: 71px;
+}
+.main_banner .container{
+    max-width: 580px;
+    text-align: center;
+    margin: inherit;
+}
+.main_banner h3{
+    color: #C0C0C0;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 1px;
+}
+.main_banner h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 59.4px;
+    margin-bottom: 18px;
+}
+.main_banner p{
+    color: #C0C0C0;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+.sunset_mount {
+    background-image: url("../images/sunset.jpg");
+    min-height: 600px;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: end;
+}
+.sunset_mount .container{
+    text-align: left;
+    max-width: 298px;
+    margin-right: 62px;
+}
+.sunset_mount h3{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.sunset_mount p{
+    color: #C0C0C0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+.monstera_leafs {
+    background-image: url("../images/monstera.jpg");
+    min-height: 600px;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: end;
+}
+.monstera_leafs .container {
+    text-align: left;
+    max-width: 273px;
+    margin-right: 87px;
+}
+.monstera_leafs h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.monstera_leafs p {
+    color: #C0C0C0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+.past_clients {
+    background-color: #000;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+.past_clients .container {
+    text-align: center;
+    max-width: 441px;
+}
+.past_clients h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+}
+.past_clients h3 {
+    color: #C0C0C0;
+    margin-top: 15px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+    .pastclients_img {
+       max-width: 1076px;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 82px;
+    }
+.starfall {
+  background-image: url("../images/starfall.jpg");
+    min-height: 600px;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: end;
+}
+.starfall .container {
+    max-width: 254px;
+    margin-right: 119px;
+}
+.starfall h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.starfall p {
+    color: #C0C0C0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
